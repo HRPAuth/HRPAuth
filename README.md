@@ -13,3 +13,6 @@ This project is experimental and may be unstable or insecure. Proceed at your ow
   3.Place the uncompressed folder in your PHP web server
 # Build, install, and so on
 Please visit [Wiki](https://github.com/HRPAuth/HRPAuth/wiki)
+# Related repositories
+[MUI-Frontend](https://github.com/HRPAuth/HRPAuth-Web)
+[PHP-Backend](https://github.com/HRPAuth/HRPAuth-Backend-PHP)
