@@ -88,7 +88,8 @@ The project is currently **experimental** and under active development.
 ## 🗺 Roadmap
 ✅Fully supported | 🟢 Partial supported | 🟡 Being tested | 🟥 Pending supported
 - ✅ Authme and blessing-skin support
-- 🟡 OAuth2 / Yggdrasil compatibility layer
+- 🟢 OAuth2 / Yggdrasil compatibility layer
+- 🟡 Luckperms support
 - 🟥 Internationalization (i18n)  
 - 🟥 Admin dashboard  
 - 🟥 Plugin ecosystem (Minecraft / Webhooks)  
