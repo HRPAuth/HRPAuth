@@ -52,7 +52,7 @@ The project is currently **experimental** and under active development.
 
 ## Requirements
   PHP (>=8.2 is recommended, other versions seems also excutable)  
-  Web server (default Apache http server,because the .htaccess file is prepared for apache)  
+  Web server (default Apache http server, because the .htaccess file is prepared for apache)  
   MySQL (>=8.0 is recomended, other versions seems also excutable)  
   *You may transform the .htaccess file into Nginx or others directives form.
 ## Quick start
@@ -66,7 +66,6 @@ The project is currently **experimental** and under active development.
 ## 📚 Documentation
 
 - **API Documentation**: `api-doc.json` in the backend repository(For code agent)  
-- **Database Schema**: `sql.json` in the backend repository(For code agent)  
 - **Deployment Guide**:   Please visit [Wiki](https://github.com/HRPAuth/HRPAuth/wiki)
 
 ---
@@ -82,13 +81,15 @@ The project is currently **experimental** and under active development.
 ### Backend
 - PHP 8.2+  
 - MySQL  
+- Redis / Memcached  
 
 ---
 
 ## 🗺 Roadmap
 ✅Fully supported | 🟢 Partial supported | 🟡 Being tested | 🟥 Pending supported
 - ✅ Authme and blessing-skin support
-- 🟢 OAuth2 / Yggdrasil compatibility layer
+- ✅ Authlib-injector support(yggdrasil-api)
+- 🟢 OAuth2 compatibility layer
 - 🟡 Luckperms support
 - 🟥 Internationalization (i18n)  
 - 🟥 Admin dashboard  
