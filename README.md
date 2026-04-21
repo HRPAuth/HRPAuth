@@ -51,7 +51,7 @@ The project is currently **experimental** and under active development.
 ---
 
 ## Requirements
-  PHP (>=8.2 is recommended, other versions seems also excutable)  
+  PHP (>=8.1 is recommended, other versions seems also excutable)  
   Web server (default Apache http server, because the .htaccess file is prepared for apache)  
   MySQL (>=8.0 is recomended, other versions seems also excutable)  
   *You may transform the .htaccess file into Nginx or others directives form.
